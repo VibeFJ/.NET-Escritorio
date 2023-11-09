@@ -1,0 +1,13 @@
+D:\ProyectosVisual\Escritorio\bin\Debug\Escritorio.exe.config
+D:\ProyectosVisual\Escritorio\bin\Debug\Escritorio.exe
+D:\ProyectosVisual\Escritorio\bin\Debug\Escritorio.pdb
+D:\ProyectosVisual\Escritorio\obj\Debug\Escritorio.csproj.AssemblyReference.cache
+D:\ProyectosVisual\Escritorio\obj\Debug\Escritorio.csproj.SuggestedBindingRedirects.cache
+D:\ProyectosVisual\Escritorio\obj\Debug\Escritorio.Compra.resources
+D:\ProyectosVisual\Escritorio\obj\Debug\Escritorio.Form1.resources
+D:\ProyectosVisual\Escritorio\obj\Debug\Escritorio.Formulario_Clientes.resources
+D:\ProyectosVisual\Escritorio\obj\Debug\Escritorio.Properties.Resources.resources
+D:\ProyectosVisual\Escritorio\obj\Debug\Escritorio.csproj.GenerateResource.cache
+D:\ProyectosVisual\Escritorio\obj\Debug\Escritorio.csproj.CoreCompileInputs.cache
+D:\ProyectosVisual\Escritorio\obj\Debug\Escritorio.exe
+D:\ProyectosVisual\Escritorio\obj\Debug\Escritorio.pdb
